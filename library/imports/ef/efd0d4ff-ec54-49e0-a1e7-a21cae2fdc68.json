@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow-wings",
+    "texture": "82529a88-4b03-489e-b4be-995534251fc2",
+    "atlas": "",
+    "rect": [
+      31,
+      3,
+      503,
+      560
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      563,
+      563
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
